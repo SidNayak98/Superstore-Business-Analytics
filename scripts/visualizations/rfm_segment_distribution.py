@@ -23,8 +23,8 @@ segment_counts = (
 
 plt.figure(figsize=(10, 6))
 
-# Give each RFM segment its own colour
-colors = plt.cm.Set2(range(len(segment_counts)))
+# Use a different colour palette from the Profit by Category chart
+colors = plt.cm.tab10(range(len(segment_counts)))
 
 plt.bar(
     segment_counts.index,
