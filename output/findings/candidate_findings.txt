@@ -1,0 +1,50 @@
+SUPERSTORE BUSINESS ANALYTICS
+CANDIDATE BUSINESS FINDINGS
+======================================================================
+
+REPORT 1 — SALES PERFORMANCE
+----------------------------------------------------------------------
+- Highest-sales category: Technology ($716,076.58)
+- Lowest-sales category: Office Supplies ($608,627.08)
+- Highest-sales sub-category: Chairs ($274,933.38)
+- Lowest-sales sub-category: Fasteners ($2,442.67)
+- Highest-sales product: Canon imageCLASS 2200 Advanced Copier ($61,599.82)
+- Lowest-sales product: Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac ($1.62)
+- Highest-sales region: West ($614,496.48)
+- Lowest-sales region: South ($334,919.82)
+- Highest-sales month: 2017-03 ($67,823.73)
+- Lowest-sales month: 2014-02 ($12,687.44)
+
+REPORT 2 — PROFITABILITY
+----------------------------------------------------------------------
+- Most profitable category: Technology ($131,227.83)
+- Least profitable category: Furniture ($16,510.54)
+- Number of loss-making products: 318
+- Largest product loss: Lexmark MX611dhe Monochrome Laser Printer ($-4,589.97)
+- Highest-profit region: West ($91,769.26)
+- Lowest-profit region: Central ($32,342.47)
+- Star products: 681
+- Weak products: 681
+- Volume products: 255
+- Winner products: 255
+
+REPORT 3 — CUSTOMER ANALYTICS
+----------------------------------------------------------------------
+- Highest-sales customer segment: Consumer
+- Highest-sales customer: Sean Miller ($24,516.60)
+
+REPORT 4 — DISCOUNT ANALYSIS
+----------------------------------------------------------------------
+- Highest observed profit margin: 0% (0.30%)
+- Lowest observed profit margin: 40%+ (-0.74%)
+- Discount analysis should be interpreted as an association between discount level and observed profitability, not as evidence of causation.
+
+REPORT 5 — GEOGRAPHIC & SHIPPING ANALYSIS
+----------------------------------------------------------------------
+- Highest-sales state: New York ($270,999.36)
+- Lowest-sales state: Texas ($144,155.83)
+- Highest-sales city: New York City ($223,280.73)
+- Lowest-sales city: Philadelphia ($88,150.16)
+- Fastest shipping mode by average duration: Same Day (0.88 days)
+- Slowest shipping mode by average duration: Standard Class (52.80 days)
+

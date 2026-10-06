@@ -1,0 +1,6 @@
+
+running all scripts in a folder:
+	for %f in (scripts\visualizations\*.py) do python "%f"
+
+checking columns and headers in a csv:
+-c "import pandas as pd; df=pd.read_csv('output/business_analysis/rfm_analysis.csv'); print(df.columns.tolist()); print(df.head())"

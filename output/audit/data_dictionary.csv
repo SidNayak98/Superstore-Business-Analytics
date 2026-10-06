@@ -1,0 +1,23 @@
+column,data_type,missing_values,missing_percentage,unique_values
+Row ID,int64,0,0.0,9994
+Order ID,object,0,0.0,5009
+Order Date,datetime64[ns],5952,59.55573344006404,483
+Ship Date,datetime64[ns],6096,60.99659795877527,527
+Ship Mode,object,0,0.0,4
+Customer ID,object,0,0.0,793
+Customer Name,object,0,0.0,793
+Segment,object,0,0.0,3
+Country,object,0,0.0,1
+City,object,0,0.0,531
+State,object,0,0.0,49
+Postal Code,int64,0,0.0,631
+Region,object,0,0.0,4
+Product ID,object,0,0.0,1862
+Category,object,0,0.0,3
+Sub-Category,object,0,0.0,17
+Product Name,object,0,0.0,1850
+Sales,float64,0,0.0,5825
+Quantity,int64,0,0.0,14
+Discount,float64,0,0.0,12
+Profit,float64,0,0.0,7287
+Shipping Duration,float64,7255,72.59355613368021,28

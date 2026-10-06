@@ -1,0 +1,18 @@
+Metric,Value
+Records,9994
+Columns,22
+Unique Customers,793
+Unique Orders,5009
+Unique Products,1862
+Unique Cities,531
+Unique States,49
+Unique Regions,4
+Categories,3
+Sub-Categories,17
+Segments,3
+Ship Modes,4
+Duplicate Rows,0
+Missing Cells,19303
+Invalid Order Dates,5952
+Invalid Ship Dates,6096
+Ship Before Order,0

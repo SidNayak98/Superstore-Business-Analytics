@@ -1,0 +1,11 @@
+Metric,Value
+Original Records,9994
+Final Records,8286
+Rows Removed,1708
+Duplicate Rows Removed,0
+Invalid Date Rows Removed,1708
+Invalid Numeric Rows Removed,0
+Final Duplicate Rows,0
+Final Missing Cells,0
+Final Invalid Shipping Durations,0
+Negative Profit Records,1581
