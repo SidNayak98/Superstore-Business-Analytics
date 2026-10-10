@@ -234,14 +234,14 @@ the actual project differs.
 The current run analyzed 8,286 records representing 4,119 orders and 791
 customers.
 
-  Metric                                          Result
-  ------------------------------------- ----------------
-  Total sales                             \$1,939,399.61
-  Total profit                              \$249,505.81
-  Overall profit margin                           12.87%
-  Total quantity sold                             31,289
-  Average order value                           \$470.84
-  Products with negative total profit                318
+| Metric                            | Result          |
+|-----------------------------------|----------------:|
+| Total sales                       | $1,939,399.61   |
+| Total profit                      | $249,505.81     |
+| Overall profit margin             | 12.87%          |
+| Total quantity sold               | 31,289          |
+| Average order value               | $470.84         |
+| Products with negative total profit | 318           |
 
 These figures describe the current cleaned dataset and may change if the
 source data or cleaning rules are updated.
