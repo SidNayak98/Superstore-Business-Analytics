@@ -44,7 +44,7 @@ turn selected analysis outputs into charts for the report.
 
 ## Script Order and Outputs
 
-### 1. Data audit --- `scripts/01_data_audit.py`
+### 1. Data audit --- `scripts/data_audit.py`
 
 **Purpose:** Inspect the raw dataset before changing it and document its
 initial condition.
@@ -66,7 +66,7 @@ data dictionary and audit summary.
 **Why first:** Auditing helps identify quality concerns before cleaning
 decisions are made.
 
-### 2. Data cleaning and feature engineering --- `scripts/02_data_cleaning.py`
+### 2. Data cleaning and feature engineering --- `scripts/data_cleaning.py`
 
 **Purpose:** Standardize and validate the data, create analysis-ready
 fields, and save the cleaned dataset.
@@ -99,7 +99,7 @@ and preserved records with negative profit.
 **Why second:** Subsequent analysis should use one consistent,
 documented dataset rather than repeatedly cleaning the raw file.
 
-### 3. Business analysis --- `scripts/03_business_analysis.py`
+### 3. Business analysis --- `scripts/business_analysis.py`
 
 **Purpose:** Calculate business metrics and create tables used to
 interpret results and build charts.
