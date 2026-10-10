@@ -106,26 +106,13 @@ interpret results and build charts.
 
 The script analyzes five areas:
 
-  -----------------------------------------------------------------------
-  Analysis area                       Examples of outputs
-  ----------------------------------- -----------------------------------
-  Sales performance                   Sales over time, by category,
-                                      sub-category, product, and region
-
-  Profitability                       Profit by category and region,
-                                      loss-making products, product
-                                      performance quadrants
-
-  Customer analytics                  Customer segment performance,
-                                      customer value, RFM analysis
-
-  Discount analysis                   Sales and profit measures by
-                                      discount band
-
-  Geographic and shipping analysis    State and city performance,
-                                      shipping-mode analysis,
-                                      shipping-duration analysis
-  -----------------------------------------------------------------------
+| Analysis Area | Examples of Outputs |
+|---|---|
+| Sales performance | Sales over time, by category, sub-category, product, and region |
+| Profitability | Profit by category and region, loss-making products, and product performance quadrants |
+| Customer analytics | Customer segment performance, customer value, and RFM analysis |
+| Discount analysis | Sales and profit measures by discount band |
+| Geographic and shipping analysis | State and city performance, shipping-mode analysis, and shipping-duration analysis |
 
 **Outputs:** `output/business_analysis/`
 
