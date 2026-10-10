@@ -41,7 +41,9 @@ REPORT 4 — DISCOUNT ANALYSIS
 
 REPORT 5 — GEOGRAPHIC & SHIPPING ANALYSIS
 ----------------------------------------------------------------------
-- Highest-sales state: New York ($270,999.36)
+- Highest-sales state: California ($388,413.49)
+- Highest-profit state: New York ($66,181.47)
+- Highest state profit margin: New York (24.42%)
 - Lowest-sales state: Texas ($144,155.83)
 - Highest-sales city: New York City ($223,280.73)
 - Lowest-sales city: Philadelphia ($88,150.16)
